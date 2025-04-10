@@ -1,6 +1,6 @@
 $(() => {
     let x = 0;
-    let interval; // Interval değişkeni
+    let interval; 
     const path = 'assets/'; // Change this path to match your path's name
     const slider = $('#slider'); // Change this ID to match your slider's ID
     const container = $('#container')
